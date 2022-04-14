@@ -14,8 +14,11 @@ Il serait intéressant d'utiliser la notion d'héritage entre classes dans cet e
 le mettre en place !
 
 On doit pouvoir :
+
 • Lister la liste des acteurs ayant incarné tel rôle
+
 • Lister le casting d'un film (Dans Star Wars, Han Solo a été incarné par Harison Ford, Luke 
+
 Skywalker a été incarné par Mark Hamill, ...)
 • Lister les films par genre (exemple : dans le genre SF il y a X films : Star Wars, Blade Runner, ...)
 • Lister la filmographie d'un acteur (dans quels films a-t-il joué ?)
